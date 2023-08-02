@@ -13,6 +13,8 @@ Portainer consists of a single container that can run on any cluster. It can be 
 - [Portainer BE install guide](https://install.portainer.io)
 
 ## Demo
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrx843%2Fportainer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrx843%2Fportainer?ref=badge_shield)
+
 
 You can try out the public demo instance: http://demo.portainer.io/ (login with the username **admin** and the password **tryportainer**).
 
@@ -77,3 +79,6 @@ Portainer supports "Current - 2 docker versions only. Prior versions may operate
 Portainer is licensed under the zlib license. See [LICENSE](./LICENSE) for reference.
 
 Portainer also contains code from open source projects. See [ATTRIBUTIONS.md](./ATTRIBUTIONS.md) for a list.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrx843%2Fportainer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrx843%2Fportainer?ref=badge_large)
